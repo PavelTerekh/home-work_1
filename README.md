@@ -1,7 +1,7 @@
 # home-work_1
 My *first* **home work** on C#  [PavelTerekh](https://github.com/PavelTerekh)
 
-'''sharp
+'''
 Console.WriteLine("Hello Word");
 Console.ReadKey();
 '''
