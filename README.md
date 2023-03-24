@@ -2,8 +2,16 @@
 My *first* **home work** on C#  [PavelTerekh](https://github.com/PavelTerekh)
 
 '''csharp
-  Console.WriteLine("Hello Word");
-  Console.ReadKey();
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello Word");
+            Console.ReadKey();
+        }
+    }
+}
 
 
 _скриншот:_
