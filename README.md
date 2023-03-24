@@ -2,16 +2,8 @@
 My *first* **home work** on C#  [PavelTerekh](https://github.com/PavelTerekh)
 
 '''sharp
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Word");
-            Console.ReadKey();
-        }
-    }
-}
+Console.WriteLine("Hello Word");
+Console.ReadKey();
 '''
 
 _скриншот:_
